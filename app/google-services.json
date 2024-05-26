@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147038713356",
+    "project_id": "appmucsic-c3b39",
+    "storage_bucket": "appmucsic-c3b39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147038713356:android:4cab99098a53b606d86029",
+        "android_client_info": {
+          "package_name": "com.example.appmucsic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ2x9oj527_yymAmk6bOH8nyIpxvbp8i0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
